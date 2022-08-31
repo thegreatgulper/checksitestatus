@@ -4,7 +4,7 @@ repo: checksitestatus # The name of this repository
 assignees:
   - thegreatgulper
 workflowSchedule:
-  staticSite: "0 */30 * ? * *"
+  staticSite: "*/20 * * * *"
 
 sites:
   - name: llslogistics.co.uk
