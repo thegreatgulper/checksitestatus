@@ -7,7 +7,7 @@ sites:
     url: https://llslogistics.co.uk/
   - name: intuition-it.com
     url: https://www.intuition-it.com/
-  - name: Test Broken Site
+  - name: londonlaboursupply.devhug.uk
     url: https://londonlaboursupply.devhug.uk/
 
 status-website:
