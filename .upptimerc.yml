@@ -1,7 +1,7 @@
 # Change these first
 owner: thegreatgulper # Your GitHub organization or username, where this repository lives
 repo: checksitestatus # The name of this repository
-user-agent: thegreatgulper
+
 assignees:
   - thegreatgulper
 
