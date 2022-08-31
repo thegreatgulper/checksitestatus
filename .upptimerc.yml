@@ -19,6 +19,18 @@ sites:
     url: https://crownstonegroup.co.uk/
   - name: chivaree.co.uk/
     url: https://chivaree.co.uk/
+  - name: galleonpropertysearch.com
+    url: https://galleonpropertysearch.com
+  - name: www.careerkatalyst.com/
+    url: https://www.careerkatalyst.com/
+  - name: www.linkmeup.org.uk/
+    url: https://www.linkmeup.org.uk/
+  - name: dynamiteevents.co.uk/
+    url: https://dynamiteevents.co.uk/
+  - name: iamsquarehead.com/
+    url: https://iamsquarehead.com/
+  - name: birkingroup.co.uk/
+    url: https://www.birkingroup.co.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
