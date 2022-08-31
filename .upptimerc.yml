@@ -9,6 +9,16 @@ sites:
     url: https://www.intuition-it.com/
   - name: londonlaboursupply.devhug.uk
     url: https://londonlaboursupply.devhug.uk/
+  - name: taptrip.com/
+    url: https://taptrip.com/
+  - name: pitsafe.com/
+    url: https://pitsafe.com/
+  - name: crownstonesurveyors.com/
+    url: https://crownstonesurveyors.com/
+  - name: crownstonegroup.co.uk/
+    url: https://crownstonegroup.co.uk/
+  - name: chivaree.co.uk/
+    url: https://chivaree.co.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
