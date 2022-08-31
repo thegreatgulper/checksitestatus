@@ -40,19 +40,19 @@
     "url": "https://londonlaboursupply.devhug.uk/",
     "icon": "https://favicons.githubusercontent.com/londonlaboursupply.devhug.uk",
     "slug": "londonlaboursupply-devhug-uk",
-    "status": "up",
-    "uptime": "64.41%",
-    "uptimeDay": "64.41%",
-    "uptimeWeek": "64.41%",
-    "uptimeMonth": "64.41%",
-    "uptimeYear": "64.41%",
-    "time": 1342,
-    "timeDay": 1342,
-    "timeWeek": 1342,
-    "timeMonth": 1342,
-    "timeYear": 1342,
+    "status": "down",
+    "uptime": "72.18%",
+    "uptimeDay": "72.18%",
+    "uptimeWeek": "72.18%",
+    "uptimeMonth": "72.18%",
+    "uptimeYear": "72.18%",
+    "time": 1326,
+    "timeDay": 1326,
+    "timeWeek": 1326,
+    "timeMonth": 1326,
+    "timeYear": 1326,
     "dailyMinutesDown": {
-      "2022-08-31": 74
+      "2022-08-31": 61
     }
   },
   {
