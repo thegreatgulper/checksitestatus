@@ -3,8 +3,6 @@ owner: thegreatgulper # Your GitHub organization or username, where this reposit
 repo: checksitestatus # The name of this repository
 assignees:
   - thegreatgulper
-workflowSchedule:
-  staticSite: "*/20 * * * *"
 
 sites:
   - name: llslogistics.co.uk
