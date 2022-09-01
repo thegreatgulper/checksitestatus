@@ -43,7 +43,7 @@ status-website:
   favicon: https://images.squarespace-cdn.com/content/v1/5ba4cded7980b349c9cdf2e3/1564166663911-RZRTB72L23ALK0B8CFTX/favicon.ico?format=100w
   name: HUG status pages
   introTitle: "**HUG status pages** is the uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page, which uses **real-time** data, is refreshed every 10 minutes. 
+  introMessage: This status page uses **real-time** data. This page is **updated every 10 minutes**. 
   navbar:
     - title: Status
       href: https://thegreatgulper.github.io/checksitestatus/
