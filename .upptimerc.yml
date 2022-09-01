@@ -32,7 +32,7 @@ sites:
   - name: birkingroup.co.uk/
     url: https://www.birkingroup.co.uk/
   - name: test site
-  url: https://londonlaboursupply.devhug.uk/
+    url: https://londonlaboursupply.devhug.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
