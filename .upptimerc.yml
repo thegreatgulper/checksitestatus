@@ -40,6 +40,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /checksitestatus
   logoUrl: https://images.squarespace-cdn.com/content/v1/5ba4cded7980b349c9cdf2e3/1542366490843-UK5M696URGMCEGBHQIB6/hug-london-logo.png?format=1500w
+  favicon: https://images.squarespace-cdn.com/content/v1/5ba4cded7980b349c9cdf2e3/1564166663911-RZRTB72L23ALK0B8CFTX/favicon.ico?format=100w
   name: HUG status pages
   introTitle: "**HUG status pages** is the uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data. 
