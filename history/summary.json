@@ -22,19 +22,19 @@
     "url": "https://www.intuition-it.com/",
     "icon": "https://favicons.githubusercontent.com/www.intuition-it.com",
     "slug": "intuition-it-com",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 908,
-    "timeDay": 744,
-    "timeWeek": 852,
-    "timeMonth": 908,
-    "timeYear": 908,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1007,
+    "timeDay": 2283,
+    "timeWeek": 1353,
+    "timeMonth": 1007,
+    "timeYear": 1007,
     "dailyMinutesDown": {
-      "2022-09-27": 38
+      "2022-09-27": 52
     }
   },
   {
