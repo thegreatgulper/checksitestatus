@@ -22,9 +22,9 @@
     "url": "https://www.intuition-it.com/",
     "icon": "https://favicons.githubusercontent.com/www.intuition-it.com",
     "slug": "intuition-it-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 878,
     "timeMonth": 913,
     "timeYear": 913,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-27": 0
+    }
   },
   {
     "name": "taptrip.com/",
@@ -186,12 +188,12 @@
     "slug": "dynamiteevents-co-uk",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 3064,
-    "timeDay": 8827,
+    "timeDay": 7506,
     "timeWeek": 4044,
     "timeMonth": 3064,
     "timeYear": 3064,
