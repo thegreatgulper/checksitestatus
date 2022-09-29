@@ -186,9 +186,9 @@
     "url": "https://dynamiteevents.co.uk/",
     "icon": "https://favicons.githubusercontent.com/dynamiteevents.co.uk",
     "slug": "dynamiteevents-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
@@ -198,6 +198,7 @@
     "timeMonth": 3174,
     "timeYear": 3174,
     "dailyMinutesDown": {
+      "2022-09-29": 0,
       "2022-09-26": 25,
       "2022-09-24": 35
     }
