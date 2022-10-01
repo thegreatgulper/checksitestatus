@@ -13,7 +13,7 @@
     "time": 1254,
     "timeDay": 1612,
     "timeWeek": 1261,
-    "timeMonth": 1289,
+    "timeMonth": 1303,
     "timeYear": 1254,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 993,
     "timeDay": 1154,
     "timeWeek": 1346,
-    "timeMonth": 1018,
+    "timeMonth": 1048,
     "timeYear": 993,
     "dailyMinutesDown": {
       "2022-09-27": 38
@@ -51,7 +51,7 @@
     "time": 666,
     "timeDay": 876,
     "timeWeek": 650,
-    "timeMonth": 674,
+    "timeMonth": 676,
     "timeYear": 666,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 537,
     "timeDay": 707,
     "timeWeek": 538,
-    "timeMonth": 541,
+    "timeMonth": 550,
     "timeYear": 537,
     "dailyMinutesDown": {}
   },
@@ -87,7 +87,7 @@
     "time": 1407,
     "timeDay": 1538,
     "timeWeek": 1193,
-    "timeMonth": 1400,
+    "timeMonth": 1395,
     "timeYear": 1407,
     "dailyMinutesDown": {}
   },
@@ -105,7 +105,7 @@
     "time": 1134,
     "timeDay": 1515,
     "timeWeek": 1233,
-    "timeMonth": 1106,
+    "timeMonth": 1110,
     "timeYear": 1134,
     "dailyMinutesDown": {}
   },
@@ -123,7 +123,7 @@
     "time": 943,
     "timeDay": 1280,
     "timeWeek": 1040,
-    "timeMonth": 952,
+    "timeMonth": 943,
     "timeYear": 943,
     "dailyMinutesDown": {}
   },
@@ -141,7 +141,7 @@
     "time": 943,
     "timeDay": 1239,
     "timeWeek": 970,
-    "timeMonth": 958,
+    "timeMonth": 957,
     "timeYear": 943,
     "dailyMinutesDown": {}
   },
@@ -159,7 +159,7 @@
     "time": 923,
     "timeDay": 994,
     "timeWeek": 789,
-    "timeMonth": 936,
+    "timeMonth": 925,
     "timeYear": 923,
     "dailyMinutesDown": {}
   },
@@ -177,7 +177,7 @@
     "time": 2568,
     "timeDay": 1768,
     "timeWeek": 2731,
-    "timeMonth": 2819,
+    "timeMonth": 3030,
     "timeYear": 2568,
     "dailyMinutesDown": {}
   },
@@ -186,16 +186,16 @@
     "url": "https://dynamiteevents.co.uk/",
     "icon": "https://favicons.githubusercontent.com/dynamiteevents.co.uk",
     "slug": "dynamiteevents-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "98.47%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "98.46%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
     "time": 3379,
     "timeDay": 9187,
-    "timeWeek": 4845,
-    "timeMonth": 3770,
+    "timeWeek": 5073,
+    "timeMonth": 4060,
     "timeYear": 3379,
     "dailyMinutesDown": {
       "2022-10-01": 69,
@@ -218,7 +218,7 @@
     "time": 1161,
     "timeDay": 1320,
     "timeWeek": 1075,
-    "timeMonth": 1193,
+    "timeMonth": 1191,
     "timeYear": 1161,
     "dailyMinutesDown": {}
   },
@@ -236,7 +236,7 @@
     "time": 1053,
     "timeDay": 1272,
     "timeWeek": 1022,
-    "timeMonth": 1067,
+    "timeMonth": 1079,
     "timeYear": 1053,
     "dailyMinutesDown": {}
   },
@@ -254,7 +254,7 @@
     "time": 1473,
     "timeDay": 1846,
     "timeWeek": 1426,
-    "timeMonth": 1473,
+    "timeMonth": 1499,
     "timeYear": 1473,
     "dailyMinutesDown": {}
   }
