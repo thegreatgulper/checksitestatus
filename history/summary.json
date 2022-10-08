@@ -168,19 +168,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.careerkatalyst.com.ico",
     "slug": "www-careerkatalyst-com",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 912,
     "timeDay": 879,
     "timeWeek": 854,
     "timeMonth": 890,
     "timeYear": 912,
-    "dailyMinutesDown": {
-      "2022-10-08": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.linkmeup.org.uk/",
@@ -205,9 +203,9 @@
     "url": "https://dynamiteevents.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dynamiteevents.co.uk.ico",
     "slug": "dynamiteevents-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "98.48%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.62%",
