@@ -185,11 +185,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dynamiteevents.co.uk.ico",
     "slug": "dynamiteevents-co-uk",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 4145,
     "timeDay": 1556,
     "timeWeek": 2851,
@@ -219,9 +219,9 @@
     "url": "https://iamsquarehead.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iamsquarehead.com.ico",
     "slug": "iamsquarehead-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -230,25 +230,29 @@
     "timeWeek": 846,
     "timeMonth": 1032,
     "timeYear": 1090,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-21": 0
+    }
   },
   {
     "name": "birkingroup.co.uk/",
     "url": "https://www.birkingroup.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.birkingroup.co.uk.ico",
     "slug": "birkingroup-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 951,
-    "timeWeek": 950,
-    "timeMonth": 1017,
-    "timeYear": 1034,
-    "dailyMinutesDown": {}
+    "time": 1043,
+    "timeDay": 1395,
+    "timeWeek": 1049,
+    "timeMonth": 1042,
+    "timeYear": 1043,
+    "dailyMinutesDown": {
+      "2022-11-21": 0
+    }
   },
   {
     "name": "test site",
