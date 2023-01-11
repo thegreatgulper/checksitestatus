@@ -31,8 +31,8 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.89%",
     "time": 1149,
-    "timeDay": 1029,
-    "timeWeek": 1093,
+    "timeDay": 1075,
+    "timeWeek": 1109,
     "timeMonth": 1292,
     "timeYear": 1149,
     "dailyMinutesDown": {
@@ -197,7 +197,7 @@
     "time": 4171,
     "timeDay": 1089,
     "timeWeek": 2937,
-    "timeMonth": 4504,
+    "timeMonth": 4540,
     "timeYear": 4171,
     "dailyMinutesDown": {
       "2022-12-31": 38,
@@ -231,18 +231,20 @@
     "url": "https://iamsquarehead.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iamsquarehead.com.ico",
     "slug": "iamsquarehead-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1214,
-    "timeDay": 1455,
-    "timeWeek": 973,
-    "timeMonth": 1642,
-    "timeYear": 1214,
-    "dailyMinutesDown": {}
+    "time": 1209,
+    "timeDay": 935,
+    "timeWeek": 903,
+    "timeMonth": 1604,
+    "timeYear": 1209,
+    "dailyMinutesDown": {
+      "2023-01-11": 0
+    }
   },
   {
     "name": "birkingroup.co.uk/",
