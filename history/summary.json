@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1194,
-    "timeDay": 1196,
-    "timeWeek": 1109,
-    "timeMonth": 1179,
-    "timeYear": 1194,
+    "time": 1192,
+    "timeDay": 1081,
+    "timeWeek": 1091,
+    "timeMonth": 1172,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2022-10-08": 19
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.89%",
     "time": 1149,
-    "timeDay": 1075,
-    "timeWeek": 1109,
-    "timeMonth": 1292,
+    "timeDay": 1223,
+    "timeWeek": 1110,
+    "timeMonth": 1290,
     "timeYear": 1149,
     "dailyMinutesDown": {
       "2023-01-09": 16,
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 556,
-    "timeDay": 624,
-    "timeWeek": 503,
-    "timeMonth": 565,
-    "timeYear": 556,
+    "time": 555,
+    "timeDay": 506,
+    "timeWeek": 488,
+    "timeMonth": 559,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2022-10-08": 17
     }
@@ -79,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1392,
-    "timeDay": 1495,
-    "timeWeek": 1311,
-    "timeMonth": 1437,
+    "timeDay": 1426,
+    "timeWeek": 1316,
+    "timeMonth": 1434,
     "timeYear": 1392,
     "dailyMinutesDown": {
       "2022-10-08": 17
@@ -98,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1115,
-    "timeDay": 1039,
-    "timeWeek": 1095,
-    "timeMonth": 1117,
-    "timeYear": 1115,
+    "time": 1113,
+    "timeDay": 895,
+    "timeWeek": 1052,
+    "timeMonth": 1106,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2022-10-08": 16
     }
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 983,
-    "timeDay": 1018,
-    "timeWeek": 974,
-    "timeMonth": 984,
-    "timeYear": 983,
+    "time": 982,
+    "timeDay": 977,
+    "timeWeek": 969,
+    "timeMonth": 983,
+    "timeYear": 982,
     "dailyMinutesDown": {
       "2022-10-08": 16
     }
@@ -139,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 859,
-    "timeDay": 1028,
-    "timeWeek": 989,
-    "timeMonth": 927,
+    "timeDay": 941,
+    "timeWeek": 972,
+    "timeMonth": 925,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2022-10-08": 15
@@ -158,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 935,
-    "timeWeek": 756,
-    "timeMonth": 828,
-    "timeYear": 838,
+    "time": 837,
+    "timeDay": 798,
+    "timeWeek": 744,
+    "timeMonth": 823,
+    "timeYear": 837,
     "dailyMinutesDown": {}
   },
   {
@@ -176,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2687,
-    "timeDay": 4271,
-    "timeWeek": 2800,
-    "timeMonth": 2553,
-    "timeYear": 2687,
+    "time": 2680,
+    "timeDay": 2971,
+    "timeWeek": 2659,
+    "timeMonth": 2526,
+    "timeYear": 2680,
     "dailyMinutesDown": {}
   },
   {
@@ -194,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.56%",
-    "time": 4171,
-    "timeDay": 1089,
-    "timeWeek": 2937,
-    "timeMonth": 4540,
-    "timeYear": 4171,
+    "time": 4159,
+    "timeDay": 961,
+    "timeWeek": 2813,
+    "timeMonth": 4539,
+    "timeYear": 4159,
     "dailyMinutesDown": {
       "2022-12-31": 38,
       "2022-12-28": 26,
@@ -227,26 +227,6 @@
     }
   },
   {
-    "name": "iamsquarehead.com/",
-    "url": "https://iamsquarehead.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/iamsquarehead.com.ico",
-    "slug": "iamsquarehead-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 935,
-    "timeWeek": 903,
-    "timeMonth": 1604,
-    "timeYear": 1209,
-    "dailyMinutesDown": {
-      "2023-01-11": 0
-    }
-  },
-  {
     "name": "birkingroup.co.uk/",
     "url": "https://www.birkingroup.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.birkingroup.co.uk.ico",
@@ -257,11 +237,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1046,
-    "timeDay": 1213,
-    "timeWeek": 972,
-    "timeMonth": 1074,
-    "timeYear": 1046,
+    "time": 1045,
+    "timeDay": 1027,
+    "timeWeek": 956,
+    "timeMonth": 1067,
+    "timeYear": 1045,
     "dailyMinutesDown": {}
   },
   {
@@ -275,11 +255,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1627,
-    "timeDay": 2003,
-    "timeWeek": 1776,
-    "timeMonth": 1779,
-    "timeYear": 1627,
+    "time": 1625,
+    "timeDay": 1701,
+    "timeWeek": 1729,
+    "timeMonth": 1767,
+    "timeYear": 1625,
     "dailyMinutesDown": {}
   }
 ]
