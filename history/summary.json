@@ -4,11 +4,11 @@
     "url": "https://llslogistics.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/llslogistics.co.uk.ico",
     "slug": "llslogistics-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1196,
     "timeDay": 989,
@@ -16,6 +16,7 @@
     "timeMonth": 1191,
     "timeYear": 1196,
     "dailyMinutesDown": {
+      "2023-01-16": 6,
       "2022-10-08": 19
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://www.intuition-it.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.intuition-it.com.ico",
     "slug": "intuition-it-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
     "time": 1165,
     "timeDay": 658,
-    "timeWeek": 1281,
+    "timeWeek": 1373,
     "timeMonth": 1347,
     "timeYear": 1165,
     "dailyMinutesDown": {
+      "2023-01-16": 5,
       "2023-01-09": 16,
       "2023-01-05": 19,
       "2023-01-03": 17,
@@ -52,11 +54,11 @@
     "url": "https://pitsafe.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pitsafe.com.ico",
     "slug": "pitsafe-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 553,
     "timeDay": 383,
@@ -64,6 +66,7 @@
     "timeMonth": 550,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2023-01-16": 5,
       "2022-10-08": 17
     }
   },
@@ -72,11 +75,11 @@
     "url": "https://crownstonesurveyors.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crownstonesurveyors.com.ico",
     "slug": "crownstonesurveyors-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1389,
     "timeDay": 1113,
@@ -84,6 +87,7 @@
     "timeMonth": 1396,
     "timeYear": 1389,
     "dailyMinutesDown": {
+      "2023-01-16": 4,
       "2022-10-08": 17
     }
   },
@@ -92,11 +96,11 @@
     "url": "https://crownstonegroup.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/crownstonegroup.co.uk.ico",
     "slug": "crownstonegroup-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1107,
     "timeDay": 718,
@@ -104,6 +108,7 @@
     "timeMonth": 1089,
     "timeYear": 1107,
     "dailyMinutesDown": {
+      "2023-01-16": 4,
       "2022-10-08": 16
     }
   },
@@ -112,11 +117,11 @@
     "url": "https://chivaree.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/chivaree.co.uk.ico",
     "slug": "chivaree-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 976,
     "timeDay": 745,
@@ -124,6 +129,7 @@
     "timeMonth": 955,
     "timeYear": 976,
     "dailyMinutesDown": {
+      "2023-01-16": 3,
       "2022-10-08": 16
     }
   },
@@ -132,11 +138,11 @@
     "url": "https://galleonpropertysearch.com",
     "icon": "https://icons.duckduckgo.com/ip3/galleonpropertysearch.com.ico",
     "slug": "galleonpropertysearch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 863,
     "timeDay": 1009,
@@ -144,6 +150,7 @@
     "timeMonth": 923,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2023-01-16": 3,
       "2022-10-08": 15
     }
   },
@@ -152,28 +159,30 @@
     "url": "https://www.careerkatalyst.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.careerkatalyst.com.ico",
     "slug": "www-careerkatalyst-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 834,
     "timeDay": 732,
     "timeWeek": 779,
     "timeMonth": 807,
     "timeYear": 834,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-16": 2
+    }
   },
   {
     "name": "www.linkmeup.org.uk/",
     "url": "https://www.linkmeup.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkmeup.org.uk.ico",
     "slug": "www-linkmeup-org-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2678,
@@ -181,25 +190,28 @@
     "timeWeek": 2649,
     "timeMonth": 2681,
     "timeYear": 2678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-16": 2
+    }
   },
   {
     "name": "dynamiteevents.co.uk/",
     "url": "https://dynamiteevents.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dynamiteevents.co.uk.ico",
     "slug": "dynamiteevents-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.58%",
     "time": 4105,
     "timeDay": 688,
     "timeWeek": 960,
-    "timeMonth": 4174,
+    "timeMonth": 4098,
     "timeYear": 4105,
     "dailyMinutesDown": {
+      "2023-01-16": 1,
       "2022-12-31": 38,
       "2022-12-28": 26,
       "2022-12-20": 34,
@@ -231,10 +243,10 @@
     "url": "https://www.birkingroup.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.birkingroup.co.uk.ico",
     "slug": "birkingroup-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1045,
@@ -242,16 +254,18 @@
     "timeWeek": 1029,
     "timeMonth": 1065,
     "timeYear": 1045,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-16": 1
+    }
   },
   {
     "name": "test site",
     "url": "https://londonlaboursupply.devhug.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/londonlaboursupply.devhug.uk.ico",
     "slug": "test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -260,6 +274,8 @@
     "timeWeek": 1690,
     "timeMonth": 1750,
     "timeYear": 1627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-16": 0
+    }
   }
 ]
