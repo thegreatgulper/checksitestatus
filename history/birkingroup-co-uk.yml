@@ -1,7 +1,7 @@
 url: https://www.birkingroup.co.uk/
-status: up
-code: 200
-responseTime: 928
-lastUpdated: 2023-01-21T23:04:14.255Z
+status: down
+code: 500
+responseTime: 3330
+lastUpdated: 2023-01-22T00:52:03.601Z
 startTime: Wed Aug 31 2022 11:25:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
