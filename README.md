@@ -1,4 +1,4 @@
-# [📈 Live Status](https://thegreatgulper.github.io/checksitestatus): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://thegreatgulper.github.io/checksitestatus): <!--live status--> **🟧 Partial outage**
 
 You can regenerate the token here: https://github.com/settings/tokens (classic : TEST_SITES)
 Then:
