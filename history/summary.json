@@ -14,7 +14,7 @@
     "timeDay": 386,
     "timeWeek": 245,
     "timeMonth": 258,
-    "timeYear": 669,
+    "timeYear": 663,
     "dailyMinutesDown": {
       "2023-05-25": 31,
       "2023-01-23": 343,
@@ -40,7 +40,7 @@
     "timeDay": 828,
     "timeWeek": 1115,
     "timeMonth": 910,
-    "timeYear": 1230,
+    "timeYear": 1232,
     "dailyMinutesDown": {
       "2023-06-12": 17,
       "2023-05-18": 112,
@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pitsafe.com.ico",
     "slug": "pitsafe-com",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -82,7 +82,7 @@
     "timeDay": 680,
     "timeWeek": 513,
     "timeMonth": 532,
-    "timeYear": 531,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2023-01-25": 62,
       "2023-01-21": 214,
@@ -134,7 +134,7 @@
     "timeDay": 1169,
     "timeWeek": 852,
     "timeMonth": 951,
-    "timeYear": 1112,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2023-02-01": 322,
       "2023-01-31": 107,
@@ -216,7 +216,7 @@
     "timeDay": 802,
     "timeWeek": 690,
     "timeMonth": 700,
-    "timeYear": 825,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2023-02-01": 300,
       "2023-01-31": 103,
@@ -242,7 +242,7 @@
     "timeDay": 4465,
     "timeWeek": 3500,
     "timeMonth": 3057,
-    "timeYear": 2693,
+    "timeYear": 2698,
     "dailyMinutesDown": {
       "2023-02-01": 294,
       "2023-01-31": 209,
@@ -271,7 +271,7 @@
     "timeDay": 1101,
     "timeWeek": 891,
     "timeMonth": 887,
-    "timeYear": 2676,
+    "timeYear": 2679,
     "dailyMinutesDown": {
       "2023-05-25": 31,
       "2023-03-24": 450,
@@ -313,9 +313,9 @@
     "url": "https://www.birkingroup.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.birkingroup.co.uk.ico",
     "slug": "birkingroup-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
@@ -325,6 +325,7 @@
     "timeMonth": 948,
     "timeYear": 1027,
     "dailyMinutesDown": {
+      "2023-08-31": 0,
       "2023-02-01": 345,
       "2023-01-31": 208,
       "2023-01-28": 142,
