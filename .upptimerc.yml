@@ -5,18 +5,6 @@ assignees:
   - thegreatgulper
 
 sites:
-  - name: llslogistics.co.uk
-    url: https://llslogistics.co.uk/
-  - name: intuition-it.com
-    url: https://www.intuition-it.com/
-  - name: pitsafe.com/
-    url: https://pitsafe.com/
-  - name: crownstonesurveyors.com/
-    url: https://crownstonesurveyors.com/
-  - name: crownstonegroup.co.uk/
-    url: https://crownstonegroup.co.uk/
-  - name: chivaree.co.uk/
-    url: https://chivaree.co.uk/
   - name: galleonpropertysearch.com
     url: https://galleonpropertysearch.com
   - name: www.careerkatalyst.com/
@@ -25,10 +13,6 @@ sites:
     url: https://www.linkmeup.org.uk/
   - name: dynamiteevents.co.uk/
     url: https://dynamiteevents.co.uk/
-  - name: birkingroup.co.uk/
-    url: https://www.birkingroup.co.uk/
-  - name: test site
-    url: https://londonlaboursupply.devhug.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
