@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 786,
-    "timeDay": 839,
-    "timeWeek": 782,
-    "timeMonth": 729,
-    "timeYear": 768,
+    "timeDay": 822,
+    "timeWeek": 801,
+    "timeMonth": 732,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2023-02-01": 301,
-      "2023-01-31": 104,
-      "2023-01-28": 127
+      "2023-01-31": 104
     }
   },
   {
@@ -27,20 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.careerkatalyst.com.ico",
     "slug": "www-careerkatalyst-com",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 789,
-    "timeDay": 840,
-    "timeWeek": 831,
-    "timeMonth": 754,
+    "timeDay": 829,
+    "timeWeek": 842,
+    "timeMonth": 757,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2023-02-01": 300,
-      "2023-01-31": 103,
-      "2023-01-28": 125
+      "2023-01-31": 103
     }
   },
   {
@@ -54,15 +52,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 2660,
-    "timeDay": 1633,
-    "timeWeek": 2410,
-    "timeMonth": 2458,
-    "timeYear": 2690,
+    "time": 2661,
+    "timeDay": 1637,
+    "timeWeek": 2448,
+    "timeMonth": 2462,
+    "timeYear": 2684,
     "dailyMinutesDown": {
       "2023-02-01": 294,
-      "2023-01-31": 209,
-      "2023-01-28": 125
+      "2023-01-31": 209
     }
   },
   {
@@ -71,22 +68,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/dynamiteevents.co.uk.ico",
     "slug": "dynamiteevents-co-uk",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1354,
-    "timeDay": 960,
-    "timeWeek": 920,
-    "timeMonth": 879,
+    "time": 1342,
+    "timeDay": 833,
+    "timeWeek": 943,
+    "timeMonth": 871,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2023-05-25": 31,
       "2023-03-24": 450,
       "2023-02-01": 327,
-      "2023-01-31": 100,
-      "2023-01-28": 124
+      "2023-01-31": 100
     }
   }
 ]
