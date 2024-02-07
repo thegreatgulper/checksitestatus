@@ -4,18 +4,20 @@
     "url": "https://galleonpropertysearch.com",
     "icon": "https://icons.duckduckgo.com/ip3/galleonpropertysearch.com.ico",
     "slug": "galleonpropertysearch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 785,
-    "timeDay": 660,
-    "timeWeek": 777,
-    "timeMonth": 746,
-    "timeYear": 703,
-    "dailyMinutesDown": {}
+    "time": 788,
+    "timeDay": 1500,
+    "timeWeek": 972,
+    "timeMonth": 796,
+    "timeYear": 707,
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   },
   {
     "name": "www.careerkatalyst.com/",
