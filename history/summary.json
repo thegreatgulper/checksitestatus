@@ -6,18 +6,16 @@
     "slug": "galleonpropertysearch-com",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 880,
-    "timeWeek": 788,
-    "timeMonth": 855,
-    "timeYear": 712,
-    "dailyMinutesDown": {
-      "2024-02-22": 8
-    }
+    "time": 793,
+    "timeDay": 831,
+    "timeWeek": 796,
+    "timeMonth": 852,
+    "timeYear": 713,
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.careerkatalyst.com/",
@@ -26,18 +24,16 @@
     "slug": "www-careerkatalyst-com",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 378,
-    "timeWeek": 353,
-    "timeMonth": 588,
-    "timeYear": 709,
-    "dailyMinutesDown": {
-      "2024-02-22": 8
-    }
+    "time": 775,
+    "timeDay": 324,
+    "timeWeek": 358,
+    "timeMonth": 568,
+    "timeYear": 708,
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.linkmeup.org.uk/",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.linkmeup.org.uk.ico",
     "slug": "www-linkmeup-org-uk",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2658,
-    "timeDay": 2846,
-    "timeWeek": 2166,
-    "timeMonth": 2527,
-    "timeYear": 2594,
-    "dailyMinutesDown": {
-      "2024-02-22": 7
-    }
+    "timeDay": 1296,
+    "timeWeek": 2162,
+    "timeMonth": 2426,
+    "timeYear": 2588,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dynamiteevents.co.uk/",
@@ -66,17 +60,16 @@
     "slug": "dynamiteevents-co-uk",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1192,
-    "timeDay": 1360,
-    "timeWeek": 934,
-    "timeMonth": 922,
+    "timeDay": 817,
+    "timeWeek": 924,
+    "timeMonth": 910,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2024-02-22": 7,
       "2023-05-25": 31,
       "2023-03-24": 450
     }
