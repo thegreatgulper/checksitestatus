@@ -4,10 +4,10 @@
     "url": "https://galleonpropertysearch.com",
     "icon": "https://icons.duckduckgo.com/ip3/galleonpropertysearch.com.ico",
     "slug": "galleonpropertysearch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 855,
@@ -15,7 +15,9 @@
     "timeWeek": 737,
     "timeMonth": 766,
     "timeYear": 888,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 1
+    }
   },
   {
     "name": "www.careerkatalyst.com/",
@@ -23,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.careerkatalyst.com.ico",
     "slug": "www-careerkatalyst-com",
     "status": "up",
-    "uptime": "60.30%",
+    "uptime": "60.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "23.81%",
-    "uptimeMonth": "13.43%",
+    "uptimeWeek": "36.28%",
+    "uptimeMonth": "16.30%",
     "uptimeYear": "0.71%",
     "time": 673,
     "timeDay": 537,
@@ -404,27 +406,29 @@
     "url": "https://www.linkmeup.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkmeup.org.uk.ico",
     "slug": "www-linkmeup-org-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2885,
+    "time": 2888,
     "timeDay": 1839,
     "timeWeek": 4809,
     "timeMonth": 3380,
     "timeYear": 3021,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 1
+    }
   },
   {
     "name": "dynamiteevents.co.uk/",
     "url": "https://dynamiteevents.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dynamiteevents.co.uk.ico",
     "slug": "dynamiteevents-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -433,6 +437,8 @@
     "timeWeek": 852,
     "timeMonth": 951,
     "timeYear": 989,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 0
+    }
   }
 ]
