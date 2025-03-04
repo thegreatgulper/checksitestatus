@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 855,
-    "timeDay": 702,
-    "timeWeek": 771,
-    "timeMonth": 776,
-    "timeYear": 889,
+    "timeDay": 729,
+    "timeWeek": 737,
+    "timeMonth": 766,
+    "timeYear": 888,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.careerkatalyst.com.ico",
     "slug": "www-careerkatalyst-com",
     "status": "up",
-    "uptime": "60.26%",
-    "uptimeDay": "66.65%",
-    "uptimeWeek": "9.52%",
-    "uptimeMonth": "10.15%",
+    "uptime": "60.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "23.81%",
+    "uptimeMonth": "13.43%",
     "uptimeYear": "0.71%",
-    "time": 675,
-    "timeDay": 671,
-    "timeWeek": 671,
-    "timeMonth": 671,
-    "timeYear": 643,
+    "time": 673,
+    "timeDay": 537,
+    "timeWeek": 644,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-03-02": 484,
       "2025-03-01": 1440,
@@ -396,8 +396,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 83
+      "2024-03-05": 1440
     }
   },
   {
@@ -411,10 +410,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2884,
-    "timeDay": 5632,
-    "timeWeek": 4916,
-    "timeMonth": 3390,
+    "time": 2885,
+    "timeDay": 1839,
+    "timeWeek": 4809,
+    "timeMonth": 3380,
     "timeYear": 3021,
     "dailyMinutesDown": {}
   },
@@ -429,11 +428,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 966,
-    "timeDay": 761,
-    "timeWeek": 919,
-    "timeMonth": 968,
-    "timeYear": 990,
+    "time": 967,
+    "timeDay": 812,
+    "timeWeek": 852,
+    "timeMonth": 951,
+    "timeYear": 989,
     "dailyMinutesDown": {}
   }
 ]
