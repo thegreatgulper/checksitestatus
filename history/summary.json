@@ -6,18 +6,16 @@
     "slug": "galleonpropertysearch-com",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 855,
-    "timeDay": 749,
-    "timeWeek": 741,
+    "timeDay": 891,
+    "timeWeek": 775,
     "timeMonth": 766,
-    "timeYear": 888,
-    "dailyMinutesDown": {
-      "2025-03-04": 11
-    }
+    "timeYear": 889,
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.careerkatalyst.com/",
@@ -25,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.careerkatalyst.com.ico",
     "slug": "www-careerkatalyst-com",
     "status": "up",
-    "uptime": "60.34%",
+    "uptime": "60.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.38%",
-    "uptimeMonth": "16.33%",
-    "uptimeYear": "0.71%",
+    "uptimeWeek": "38.09%",
+    "uptimeMonth": "16.72%",
+    "uptimeYear": "0.73%",
     "time": 673,
-    "timeDay": 537,
-    "timeWeek": 644,
-    "timeMonth": 644,
-    "timeYear": 644,
+    "timeDay": 783,
+    "timeWeek": 667,
+    "timeMonth": 667,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2025-03-02": 484,
       "2025-03-01": 1440,
@@ -397,8 +395,7 @@
       "2024-03-09": 1440,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
-      "2024-03-06": 1440,
-      "2024-03-05": 1440
+      "2024-03-06": 1440
     }
   },
   {
@@ -407,19 +404,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.linkmeup.org.uk.ico",
     "slug": "www-linkmeup-org-uk",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2889,
-    "timeDay": 1866,
-    "timeWeek": 4444,
-    "timeMonth": 3329,
-    "timeYear": 3018,
-    "dailyMinutesDown": {
-      "2025-03-04": 11
-    }
+    "time": 2885,
+    "timeDay": 1969,
+    "timeWeek": 3823,
+    "timeMonth": 3344,
+    "timeYear": 3019,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dynamiteevents.co.uk/",
@@ -428,17 +423,15 @@
     "slug": "dynamiteevents-co-uk",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 967,
-    "timeDay": 756,
-    "timeWeek": 833,
-    "timeMonth": 942,
+    "timeDay": 847,
+    "timeWeek": 864,
+    "timeMonth": 931,
     "timeYear": 989,
-    "dailyMinutesDown": {
-      "2025-03-04": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
