@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.careerkatalyst.com.ico",
     "slug": "www-careerkatalyst-com",
     "status": "up",
-    "uptime": "60.64%",
+    "uptime": "60.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.65%",
-    "uptimeYear": "2.64%",
+    "uptimeMonth": "39.73%",
+    "uptimeYear": "2.65%",
     "time": 674,
     "timeDay": 641,
     "timeWeek": 751,
@@ -388,8 +388,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   },
   {
