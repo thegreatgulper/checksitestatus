@@ -4,18 +4,20 @@
     "url": "https://galleonpropertysearch.com",
     "icon": "https://icons.duckduckgo.com/ip3/galleonpropertysearch.com.ico",
     "slug": "galleonpropertysearch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 882,
-    "timeWeek": 1043,
-    "timeMonth": 926,
-    "timeYear": 854,
-    "dailyMinutesDown": {}
+    "time": 881,
+    "timeDay": 695,
+    "timeWeek": 976,
+    "timeMonth": 913,
+    "timeYear": 853,
+    "dailyMinutesDown": {
+      "2025-08-21": 0
+    }
   },
   {
     "name": "Intuition-it.com",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intuition-it.com.ico",
     "slug": "intuition-it-com",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
