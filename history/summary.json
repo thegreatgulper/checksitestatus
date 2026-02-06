@@ -22,9 +22,9 @@
     "url": "https://www.intuition-it.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.intuition-it.com.ico",
     "slug": "intuition-it-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 840,
     "timeMonth": 882,
     "timeYear": 895,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-06": 0
+    }
   },
   {
     "name": "www.linkmeup.org.uk/",
@@ -45,14 +47,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.63%",
+    "uptimeYear": "83.61%",
     "time": 3341,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3406,
     "dailyMinutesDown": {
-      "2026-02-06": 4,
+      "2026-02-06": 107,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
