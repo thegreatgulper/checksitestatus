@@ -27,10 +27,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intuition-it.com.ico",
     "slug": "intuition-it-com",
     "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "96.50%",
-    "uptimeMonth": "99.19%",
+    "uptime": "98.36%",
+    "uptimeDay": "90.05%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "98.41%",
     "time": 808,
     "timeDay": 276,
@@ -49,7 +49,7 @@
       "2026-06-03": 185,
       "2026-06-04": 39,
       "2026-06-05": 128,
-      "2026-06-06": 0
+      "2026-06-06": 15
     }
   },
   {
@@ -62,7 +62,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.11%",
+    "uptimeYear": "51.10%",
     "time": 3422,
     "timeDay": 0,
     "timeWeek": 0,
@@ -70,7 +70,7 @@
     "timeYear": 3527,
     "dailyMinutesDown": {
       "2025-10-03": 62,
-      "2026-06-06": 11,
+      "2026-06-06": 25,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
