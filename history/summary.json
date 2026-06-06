@@ -26,16 +26,16 @@
     "url": "https://www.intuition-it.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.intuition-it.com.ico",
     "slug": "intuition-it-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "89.11%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "86.97%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "98.39%",
     "time": 805,
-    "timeDay": 304,
-    "timeWeek": 370,
-    "timeMonth": 437,
+    "timeDay": 333,
+    "timeWeek": 381,
+    "timeMonth": 441,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2026-02-10": 1114,
@@ -49,7 +49,7 @@
       "2026-06-03": 185,
       "2026-06-04": 39,
       "2026-06-05": 128,
-      "2026-06-06": 95
+      "2026-06-06": 126
     }
   },
   {
@@ -62,7 +62,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.90%",
+    "uptimeYear": "50.89%",
     "time": 3422,
     "timeDay": 0,
     "timeWeek": 0,
@@ -70,7 +70,7 @@
     "timeYear": 3527,
     "dailyMinutesDown": {
       "2025-10-03": 62,
-      "2026-06-06": 1120,
+      "2026-06-06": 1151,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
